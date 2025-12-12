@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### IGNORE SPRING BOOT SECRET FILES ###
+src/main/resources/application.properties
+src/main/resources/application-local.properties
